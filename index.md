@@ -1,4 +1,8 @@
-Welcome to ENSH 101
+---
+layout: default
+---
+
+# Welcome to ENSH 101
 
 Instructor: Lincoln Z. Shlensky  
 University of Victoria
@@ -20,8 +24,3 @@ Introduction to the course
 
 ### Week 2
 Reading and discussion
-
-## Documents
-
-- [Syllabus PDF](syllabus.pdf)
-- [Workshop 1](workshop-1.md)
